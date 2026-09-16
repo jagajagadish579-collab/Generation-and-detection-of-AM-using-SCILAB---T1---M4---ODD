@@ -91,5 +91,5 @@ Compare the original modulating signal with the demodulated signal.
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/7efd9369-8c2b-4c9f-a414-61631111c07e" />
 
 
-#RESUIT:Thus the amplitude modulation and demodulation is experimentally done and the output is verified. 
+RESUIT:Thus the amplitude modulation and demodulation is experimentally done and the output is verified. 
 
