@@ -1,4 +1,4 @@
-# Generation-and-detection-of-AM-using-SCILAB---T1---M4---ODD
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b66af478-7df4-4a05-882a-16073c8deda9" /># Generation-and-detection-of-AM-using-SCILAB---T1---M4---ODD
 # AIM
 
 To generate and detect the amplitude modulation and demodulation using SCILAB and to calculate modulation index of AM.
@@ -87,7 +87,8 @@ Compare the original modulating signal with the demodulated signal.
 #OUTPUT:
 3<img width="1278" height="926" alt="image" src="https://github.com/user-attachments/assets/37f42f96-bb0a-4ebd-a47d-4e2b522cca22" />
 
-![Uploading image.png…]()
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/7efd9369-8c2b-4c9f-a414-61631111c07e" />
 
 
 #RESUIT:Thus the amplitude modulation and demodulation is experimentally done and the output is verified. 
