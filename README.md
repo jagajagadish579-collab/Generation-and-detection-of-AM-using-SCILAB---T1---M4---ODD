@@ -87,12 +87,8 @@ Compare the original modulating signal with the demodulated signal.
 #OUTPUT:
 3<img width="1278" height="926" alt="image" src="https://github.com/user-attachments/assets/37f42f96-bb0a-4ebd-a47d-4e2b522cca22" />
 
+![Uploading image.png…]()
 
-# CALCULATION
-
-1. **ma (Theory) = am/ac = 9.6/19 =0.5
-
-2. **ma (Practical) = (Emax - Emin) / (Emax + Emin) =0.8
 
 #RESUIT:Thus the amplitude modulation and demodulation is experimentally done and the output is verified. 
 
